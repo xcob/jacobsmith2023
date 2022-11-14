@@ -1,5 +1,7 @@
-export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
-export { default as Tutorial } from '../../components/Tutorial.vue'
+export { default as Attributes } from '../../components/attributes.vue'
+export { default as Header } from '../../components/header.vue'
+export { default as Powerfooter } from '../../components/powerfooter.vue'
+export { default as Workhistory } from '../../components/workhistory.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

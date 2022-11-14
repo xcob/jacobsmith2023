@@ -1,8 +1,14 @@
 {
-  "NuxtLogo": {
-    "description": "Auto imported from components/NuxtLogo.vue"
+  "Attributes": {
+    "description": "Auto imported from components/attributes.vue"
   },
-  "Tutorial": {
-    "description": "Auto imported from components/Tutorial.vue"
+  "Header": {
+    "description": "Auto imported from components/header.vue"
+  },
+  "Powerfooter": {
+    "description": "Auto imported from components/powerfooter.vue"
+  },
+  "Workhistory": {
+    "description": "Auto imported from components/workhistory.vue"
   }
 }
