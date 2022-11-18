@@ -1,6 +1,7 @@
 <template>
   <div>
     <Header />
+    <Edu-skills />
     <Workhistory />
   </div>
 </template>

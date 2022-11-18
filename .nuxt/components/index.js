@@ -1,4 +1,6 @@
 export { default as Attributes } from '../../components/attributes.vue'
+export { default as EduSkills } from '../../components/edu-skills.vue'
+export { default as Education } from '../../components/education.vue'
 export { default as Header } from '../../components/header.vue'
 export { default as Powerfooter } from '../../components/powerfooter.vue'
 export { default as Workhistory } from '../../components/workhistory.vue'

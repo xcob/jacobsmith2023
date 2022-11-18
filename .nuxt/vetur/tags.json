@@ -2,6 +2,12 @@
   "Attributes": {
     "description": "Auto imported from components/attributes.vue"
   },
+  "EduSkills": {
+    "description": "Auto imported from components/edu-skills.vue"
+  },
+  "Education": {
+    "description": "Auto imported from components/education.vue"
+  },
   "Header": {
     "description": "Auto imported from components/header.vue"
   },

@@ -1,24 +1,36 @@
 <template>
-    <div id="attributesSection">
-        <!-- <span class="dotLoad">HTML <div></div><div></div><div></div><div></div>
-        </span> -->
-        <p class="dotLoad">HTML/CSS <span>.</span><span>.</span><span>.</span><span>.</span></p>
-        <p class="dotLoad">Wordpress <span>.</span><span>.</span><span>.</span><span>.</span></p>
-        <p class="dotLoad">PHP/MySQL <span>.</span><span>.</span><span>.</span><span>.</span></p>
-        <p class="dotLoad">Javascript <span>.</span><span>.</span><span>.</span><span>.</span></p>
-        <p class="dotLoad">DNS Management <span>.</span><span>.</span><span>.</span><span>.</span></p>
-        <p class="dotLoad">Project Management <span>.</span><span>.</span><span>.</span><span>.</span></p>
+    <div>
+          <b-container align-h="center" id="attributesSection">
+            <b-row align-h="center">
+                <b-col md="auto">
+            <h3 class="workExp">Skillset</h3>
+            <!-- <span class="dotLoad">HTML <div></div><div></div><div></div><div></div>
+            </span> -->
+            <p class="dotLoad">HTML/CSS <span>.</span><span>.</span><span>.</span><span>.</span></p>
+            <p class="dotLoad">Wordpress <span>.</span><span>.</span><span>.</span><span>.</span></p>
+            <p class="dotLoad lastDot">PHP/MySQL <span>.</span><span>.</span><span>.</span><span>.</span></p>
+            <p class="dotLoad lastDot">Javascript <span>.</span><span>.</span><span>.</span><span>.</span></p>
+            <p class="dotLoad lastDot">DNS Management <span>.</span><span>.</span><span>.</span><span>.</span></p>
+            <p class="dotLoad lastDot">Project Management <span>.</span><span>.</span><span>.</span><span>.</span></p>
+                </b-col>
+            </b-row>
+        </b-container>
     </div>
 </template>
 
 <style>
+
+.workExp{
+    text-align: center;
+}
 #attributesSection{
     text-align: center;
+    padding: 2em;
 }
 
 #attributesSection p{
     margin: 5px;
-    margin-top: -85px;
+    margin-top: -75px;
 }
 
 #attributesSection p:nth-child(1){
@@ -38,20 +50,22 @@
     }
 }
 
+@keyframes lastload {
+    0% {
+      opacity: .1;
+    }
+    50% {
+      opacity: .2;
+    }
+    100% {
+      opacity: .3;
+    }
+}
+
 .dotLoad span {
-  font-size: 80px;
+    font-size: 80px;
     animation-name: load;
     animation-duration: 1.8s;
-    animation-fill-mode: both;
-}
-.dotLoad div {
-    content: '*';
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background-color: #e9e9e9;
-    animation-name: load;
-    animation-duration: 1.4s;
     animation-fill-mode: both;
 }
 
@@ -65,6 +79,12 @@
 
 .dotLoad span:nth-child(4) {
     animation-delay: .6s;
+}
+
+.lastDot span:nth-child(4) {
+    animation-name: lastload;
+    animation-duration: 1.8s;
+    animation-fill-mode: both;
 }
 
 /* .dotLoad:nth-child(4) span:nth-child(3){

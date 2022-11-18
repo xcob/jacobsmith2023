@@ -2,13 +2,16 @@
   <div id="header-info">
     <b-container align-h="center">
       <b-row align-h="center">
-        <b-col md="auto"><b-img src="/roughheadshot.png" width="400px" alt="Fleek Logo Mark"></b-img></b-col>
-        <b-col md="auto" align-self="center">
+        <b-col><b-img src="/circles-and-headshot-web.png" width="400px" alt="Fleek Logo Mark"></b-img></b-col>
+        <b-col align-self="center">
           <h1>Jacob Smith</h1>
-          <h4>Web Developer & Digital Marketer</h4>
+          <h4>Software Engineer & Digital Marketer</h4>
+          <p>Developer at heart with a digital marketing mindset who is motivated by measurable results. 
+            Active team-member and contributor when collaborating with distributed work-groups. 
+            Experience in creating real world solutions for critical client issues and needs. 
+          </p>
            <!-- <b-icon icon="bar-chart-fill"></b-icon>
            <b-icon-arrow-up></b-icon-arrow-up> -->
-           <Attributes />
         </b-col>
       </b-row>
     </b-container>
