@@ -25,12 +25,12 @@
 }
 #attributesSection{
     text-align: center;
-    padding: 2em;
 }
 
 #attributesSection p{
     margin: 5px;
     margin-top: -75px;
+    word-wrap: break-word;
 }
 
 #attributesSection p:nth-child(1){

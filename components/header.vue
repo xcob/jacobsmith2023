@@ -1,7 +1,7 @@
 <template>
-  <div id="header-info">
+  <div >
     <b-container align-h="center">
-      <b-row align-h="center">
+      <b-row align-h="center" id="header-info">
         <b-col align-self="center" order="2" order-md="1">
           <h1>Hi! I'm Jacob Smith</h1>
           <h4>Software Engineer & Digital Marketer</h4>
@@ -12,7 +12,7 @@
            <!-- <b-icon icon="bar-chart-fill"></b-icon>
            <b-icon-arrow-up></b-icon-arrow-up> -->
         </b-col>
-        <b-col align-self="center" order="1" order-md="2"><b-img src="/circles-and-headshot-web.png" width="400px" alt="Fleek Logo Mark"></b-img>
+        <b-col align-self="center" order="1" order-md="2"><b-img src="/circles-and-headshot-web.png" width="305px" alt="Fleek Logo Mark"></b-img>
       </b-col>
         
       </b-row>
@@ -32,7 +32,7 @@ export default {
 <style>
   #header-info{
     text-align: center;
-    padding: 2em;
+    padding: 1em 0em;
   }
 
   #header-info img {

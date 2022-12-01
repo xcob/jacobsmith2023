@@ -9,9 +9,9 @@
             <p class="workDate">April 2022 - Present | The Knob Shoppe</p>
             <ul>
                 <li>Build custom guitar pedal clones and modded clones</li>
-                <li>Manage Woocommerce powered Wordpress store</li>
-                <li>Manage Double Scoop newsletter distribution and content</li>
-                <li>Manage The Knob Shoppe/Double Scoop social media presence</li>
+                <li>Upkeep of Woocommerce powered Wordpress store</li>
+                <li>Write content for and distribute Double Scoop newsletter</li>
+                <li>Manage The Knob Shoppe/Double Scoop social media</li>
             </ul>
             <p style="text-align: center;">Check out <a href="https://theknobshoppe.com/" style="color: #208587;" target="_blank">The Knob Shoppe!</a></p>
             </b-col>
@@ -89,7 +89,7 @@
     color: #13172B;
     padding: .5em;
     border-radius: 2em;
-    margin-bottom: 1em;
+    margin: 1em 0em;;
 }  
 
 
