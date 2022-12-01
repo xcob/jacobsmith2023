@@ -8,9 +8,7 @@
                 <b-img src="/fleek-icon.png" fluid width="40%" alt="Fleek Logo Mark"></b-img></b-col>
             </b-row>
         </b-container>    
-        <b-img src="/circles.png" id="circles-footer" fluid width="200%" alt="Circles"></b-img>
-        <b-img src="/circles.png" id="circles-footer2" fluid width="200%" alt="Circles"></b-img>
-        <b-img src="/circles.png" id="circles-footer3" fluid width="200%" alt="Circles"></b-img>
+        
     </div>
     
 </template>

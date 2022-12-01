@@ -1,22 +1,10 @@
 <template>
     <div>
     <b-container align-h="center">
+        <h3 class="workExp">Work Experience</h3>
       <b-row align-h="center" class="workRow">
         <b-col md="auto">
-            <h3 class="workExp">Work Experience</h3>
-            <h4 class="workTitle">Marketing Web Developer</h4>
-            <p class="workDate">March 2020 - Present | ADTRAV Travel Management</p>
-            <ul>
-                <li>Total website management including DNS, domains, backups, SSL's, plugins, updates</li>
-                <li>Custom code creation utilizing API's</li>
-                <li>Managment of Zoho/Dynamics CRM systems with lead/contact workflows</li>
-                <li>Manage digital marketing campaigns with CRM emails, forms, landing pages, and stratgies</li>
-                <li>Social media Management from within Zoho Social</li>  
-            </ul>
-            </b-col>
-      </b-row>
-      <b-row align-h="center" class="workRow">
-        <b-col md="auto">
+            
             <h4 class="workTitle">Founder/CEO</h4>
             <p class="workDate">April 2022 - Present | The Knob Shoppe</p>
             <ul>
@@ -26,6 +14,19 @@
                 <li>Manage The Knob Shoppe/Double Scoop social media presence</li>
             </ul>
             <p style="text-align: center;">Check out <a href="https://theknobshoppe.com/" style="color: #208587;" target="_blank">The Knob Shoppe!</a></p>
+            </b-col>
+      </b-row>
+      <b-row align-h="center" class="workRow">
+        <b-col md="auto">
+            <h4 class="workTitle">Marketing Web Developer</h4>
+            <p class="workDate">March 2020 - Present | ADTRAV Travel Management</p>
+            <ul>
+                <li>Total website management including DNS, domains, backups, SSL's, plugins, updates</li>
+                <li>Custom code creation utilizing API's</li>
+                <li>Managment of Zoho/Dynamics CRM systems with lead/contact workflows</li>
+                <li>Manage digital marketing campaigns with CRM emails, forms, landing pages, and strategies</li>
+                <li>Social media Management from within Zoho Social</li>  
+            </ul>
             </b-col>
       </b-row>
       <b-row align-h="center" class="workRow">
@@ -67,7 +68,7 @@
 }
 
 .workRow{
-    padding: 2em;
+    padding: 1.5em;
 }
 
 #work-info{
