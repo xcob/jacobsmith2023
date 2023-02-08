@@ -3,6 +3,7 @@ export { default as EduSkills } from '../../components/edu-skills.vue'
 export { default as Education } from '../../components/education.vue'
 export { default as Header } from '../../components/header.vue'
 export { default as Powerfooter } from '../../components/powerfooter.vue'
+export { default as Projects } from '../../components/projects.vue'
 export { default as Workhistory } from '../../components/workhistory.vue'
 
 // nuxt/nuxt.js#8607

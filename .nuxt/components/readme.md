@@ -11,4 +11,5 @@ You can directly use them in pages and other components without the need to impo
 - `<Education>` | `<education>` (components/education.vue)
 - `<Header>` | `<header>` (components/header.vue)
 - `<Powerfooter>` | `<powerfooter>` (components/powerfooter.vue)
+- `<Projects>` | `<projects>` (components/projects.vue)
 - `<Workhistory>` | `<workhistory>` (components/workhistory.vue)

@@ -11,6 +11,7 @@
         </b-col>
       </b-row>
     </b-container>
+    <Projects />
   </div>
 </template>
 

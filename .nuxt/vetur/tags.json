@@ -14,6 +14,9 @@
   "Powerfooter": {
     "description": "Auto imported from components/powerfooter.vue"
   },
+  "Projects": {
+    "description": "Auto imported from components/projects.vue"
+  },
   "Workhistory": {
     "description": "Auto imported from components/workhistory.vue"
   }
