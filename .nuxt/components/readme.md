@@ -10,6 +10,7 @@ You can directly use them in pages and other components without the need to impo
 - `<EduSkills>` | `<edu-skills>` (components/edu-skills.vue)
 - `<Education>` | `<education>` (components/education.vue)
 - `<HeaderResume>` | `<header-resume>` (components/header-resume.vue)
+- `<NavigationHeader>` | `<navigation-header>` (components/navigation-header.vue)
 - `<Powerfooter>` | `<powerfooter>` (components/powerfooter.vue)
 - `<Projects>` | `<projects>` (components/projects.vue)
 - `<Workhistory>` | `<workhistory>` (components/workhistory.vue)

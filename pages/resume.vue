@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Navigation-header />
     <Header-resume />
     <b-container align-h="center" fluid="lg">
       <b-row align-h="center">
