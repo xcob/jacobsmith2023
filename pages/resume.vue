@@ -14,7 +14,7 @@
     <b-container align-h="center" >
       <b-row align-h="center" align-self="center">
         <b-col align-h="center" class="btnContainer">
-          <b-button class="heroButton" style="color: #fff;" download href="/Jacob_Smith_Resume-22.pdf">Download Resume</b-button>
+          <!-- <b-button class="heroButton" style="color: #fff;" download href="/Jacob_Smith_Resume-22.pdf">Download Resume</b-button> -->
         </b-col>
       </b-row>
     </b-container>

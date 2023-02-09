@@ -51,7 +51,7 @@
   }
 
   #backgroundCurve{
-    background-image: url('/blank-bg.png');
+    /* background-image: url('/blank-bg.png'); */
     position: absolute;
   }
 
