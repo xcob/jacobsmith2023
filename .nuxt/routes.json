@@ -2,22 +2,19 @@
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\Cob\\\\Documents\\\\GitHub\\\\jacobsmith2023\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_37c0ec52"
+    "component": "/Users/kennedywebster/Documents/jacobsmith2023/jacobsmith2023/pages/contact.vue",
+    "chunkName": "pages/contact"
   },
   {
     "name": "resume",
     "path": "/resume",
-    "component": "C:\\\\Users\\\\Cob\\\\Documents\\\\GitHub\\\\jacobsmith2023\\\\pages\\\\resume.vue",
-    "chunkName": "pages/resume",
-    "_name": "_30557946"
+    "component": "/Users/kennedywebster/Documents/jacobsmith2023/jacobsmith2023/pages/resume.vue",
+    "chunkName": "pages/resume"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\Cob\\\\Documents\\\\GitHub\\\\jacobsmith2023\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_5ed22149"
+    "component": "/Users/kennedywebster/Documents/jacobsmith2023/jacobsmith2023/pages/index.vue",
+    "chunkName": "pages/index"
   }
 ]
