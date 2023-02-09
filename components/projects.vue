@@ -19,7 +19,7 @@
               <a href="https://mute-sky-2058.on.fleek.co/" target="_blank"><b-img src="/pokemon-app-ss.png" fluid  alt=""></b-img></a>
               <p class="project">Pokemon Randomizer</p>
               <p class="projectType">Pokemon Sprite and Card Generator</p>
-              <p class="technologies">React, Pokemon API</p>
+              <p class="technologies">React, Pokemon API, Boostrap</p>
             </b-col>
              <b-col sm="12">
               <a href="https://rapid-poetry-0657.on.fleek.co/" target="_blank"><b-img src="/chips-sreenshot.png"  fluid  alt=""></b-img></a>
