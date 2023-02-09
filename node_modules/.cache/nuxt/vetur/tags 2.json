@@ -1,0 +1,23 @@
+{
+  "Attributes": {
+    "description": "Auto imported from components/attributes.vue"
+  },
+  "EduSkills": {
+    "description": "Auto imported from components/edu-skills.vue"
+  },
+  "Education": {
+    "description": "Auto imported from components/education.vue"
+  },
+  "HeaderResume": {
+    "description": "Auto imported from components/header-resume.vue"
+  },
+  "Powerfooter": {
+    "description": "Auto imported from components/powerfooter.vue"
+  },
+  "Projects": {
+    "description": "Auto imported from components/projects.vue"
+  },
+  "Workhistory": {
+    "description": "Auto imported from components/workhistory.vue"
+  }
+}
