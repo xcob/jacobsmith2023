@@ -20,8 +20,6 @@
           <h1 id="greeting">Hello!</h1>
           <h3 id="subGreeting">I'm Jacob Smith</h3>
           <p id="subAbout">Software Engineer/Digital Marketing Specialist</p>
-         
-          <!-- <b-button class="heroButton" href="#">More Info</b-button> -->
         </b-col>
 
       </b-row>
