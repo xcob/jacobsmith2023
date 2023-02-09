@@ -89,7 +89,7 @@
     color: #13172B;
     padding: .5em;
     border-radius: 2em;
-    margin: 1em 0em;;
+    margin: 1em 0em;
 }  
 
 

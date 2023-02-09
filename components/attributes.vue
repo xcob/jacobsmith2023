@@ -10,6 +10,8 @@
             <p class="dotLoad">Wordpress <span>.</span><span>.</span><span>.</span><span>.</span></p>
             <p class="dotLoad lastDot">PHP/MySQL <span>.</span><span>.</span><span>.</span><span>.</span></p>
             <p class="dotLoad lastDot">Javascript <span>.</span><span>.</span><span>.</span><span>.</span></p>
+            <p class="dotLoad lastDot">React/Vue <span>.</span><span>.</span><span>.</span><span>.</span></p>
+            <p class="dotLoad lastDot">NextJS/NuxtJS <span>.</span><span>.</span><span>.</span><span>.</span></p>
             <p class="dotLoad lastDot">DNS Management <span>.</span><span>.</span><span>.</span><span>.</span></p>
             <p class="dotLoad lastDot">Project Management <span>.</span><span>.</span><span>.</span><span>.</span></p>
                 </b-col>
