@@ -9,11 +9,17 @@
               <p class="projectType">Guitar Pedals Shop</p>
               <p class="technologies">Wordpress, Woocommerce, Stripe</p>
             </b-col>
-             <b-col sm="12">
+            <b-col sm="12">
               <a href="https://cosmanauts.com/" target="_blank"><b-img src="/cosmanauts-screen.png" fluid  alt=""></b-img></a>
               <p class="project">Cosmanauts</p>
               <p class="projectType">Crypto NFT Project</p>
               <p class="technologies">Vue, NuxtJS, Fleek, Cardano, Blockfrost, Nami Wallet</p>
+            </b-col>
+            <b-col sm="12">
+              <a href="https://mute-sky-2058.on.fleek.co/" target="_blank"><b-img src="/pokemon-app-ss.png" fluid  alt=""></b-img></a>
+              <p class="project">Pokemon Randomizer</p>
+              <p class="projectType">Pokemon Sprite and Card Generator</p>
+              <p class="technologies">React, Pokemon API</p>
             </b-col>
              <b-col sm="12">
               <a href="https://rapid-poetry-0657.on.fleek.co/" target="_blank"><b-img src="/chips-sreenshot.png"  fluid  alt=""></b-img></a>
