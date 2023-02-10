@@ -16,7 +16,7 @@
               <p class="technologies">Vue, NuxtJS, Fleek, Cardano, Blockfrost, Nami Wallet</p>
             </b-col>
             <b-col sm="12">
-              <a href="https://mute-sky-2058.on.fleek.co/" target="_blank"><b-img class="imageOverlay" src="/pokemon-app-ss.png" fluid  alt=""></b-img></a>
+              <a href="https://mute-sky-2058.on.fleek.co/" target="_blank"><b-img class="imageOverlay" src="/pokemon-app-ss-update.png" fluid  alt=""></b-img></a>
               <p class="project">Pokemon Randomizer</p>
               <p class="projectType">Pokemon Sprite and Card Generator</p>
               <p class="technologies">React, Pokemon API, Bootstrap</p>
