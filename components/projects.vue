@@ -4,25 +4,25 @@
       <b-row class="projectRow" align-h="center">
         <h3>Projects</h3>
             <b-col sm="12">
-              <a href="https://theknobshoppe.com/" target="_blank"><b-img src="/tks-homepage.png"  fluid alt=""></b-img></a>
+              <a href="https://theknobshoppe.com/" target="_blank"><b-img class="imageOverlay" src="/tks-homepage.png"  fluid alt=""></b-img></a>
               <p class="project">The Knob Shoppe</p>
               <p class="projectType">Guitar Pedals Shop</p>
               <p class="technologies">Wordpress, Woocommerce, Stripe</p>
             </b-col>
             <b-col sm="12">
-              <a href="https://cosmanauts.com/" target="_blank"><b-img src="/cosmanauts-screen.png" fluid  alt=""></b-img></a>
+              <a href="https://cosmanauts.com/" target="_blank"><b-img class="imageOverlay" src="/cosmanauts-screen.png" fluid  alt=""></b-img></a>
               <p class="project">Cosmanauts</p>
               <p class="projectType">Crypto NFT Project</p>
               <p class="technologies">Vue, NuxtJS, Fleek, Cardano, Blockfrost, Nami Wallet</p>
             </b-col>
             <b-col sm="12">
-              <a href="https://mute-sky-2058.on.fleek.co/" target="_blank"><b-img src="/pokemon-app-ss.png" fluid  alt=""></b-img></a>
+              <a href="https://mute-sky-2058.on.fleek.co/" target="_blank"><b-img class="imageOverlay" src="/pokemon-app-ss.png" fluid  alt=""></b-img></a>
               <p class="project">Pokemon Randomizer</p>
               <p class="projectType">Pokemon Sprite and Card Generator</p>
-              <p class="technologies">React, Pokemon API, Boostrap</p>
+              <p class="technologies">React, Pokemon API, Bootstrap</p>
             </b-col>
              <b-col sm="12">
-              <a href="https://rapid-poetry-0657.on.fleek.co/" target="_blank"><b-img src="/chips-sreenshot.png"  fluid  alt=""></b-img></a>
+              <a href="https://rapid-poetry-0657.on.fleek.co/" target="_blank"><b-img class="imageOverlay" src="/chips-sreenshot.png"  fluid  alt=""></b-img></a>
               <p class="project">Chips</p>
               <p class="projectType">Crypto NFT Project</p>
               <p class="technologies">Vue, NuxtJS, Fleek, Cardano, Blockfrost, Nami Wallet</p>
@@ -56,6 +56,16 @@
 
 .projectRow{
     padding: 1em 1.5em;
+}
+
+.imageOverlay{
+  filter: saturate(25%);
+  transition: filter 0.5s ease-in-out;
+}
+
+.imageOverlay:hover{
+  filter: saturate(100%);
+  transition: filter 0.5s ease-in-out;
 }
 
 @media only screen and (min-width: 500px)  {
