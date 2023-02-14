@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Navigation-header />
+    <Navigation-home />
     <b-container align-h="center" align-v="center" fluid="lg" id="heroCob">
       <b-row>
         <b-col align-v="" align-h="center">
@@ -10,6 +10,10 @@
           <h1 id="greeting">Hello!</h1>
           <h3 id="subGreeting">I'm Jacob Smith</h3>
           <p id="subAbout">Software Engineer/Digital Marketing Specialist</p>
+          <p id="" >With over 5 years of experience in web development I have helped clients, employers, and friends achieve their website goals. Everything from simple Wordpress installs to complex 
+            API calls with the latest Javascript framework has come across my screen. I love the challenge that comes with being a developer and always look forward to the next project. In 
+            my spare time I love playing guitar, building guitar pedals, cooking, and playing ice hockey. 
+          </p>
         </b-col>
 
       </b-row>
@@ -20,7 +24,6 @@
 </template>
 
 <style>
-
 
  
 
@@ -37,6 +40,10 @@
 
   #heroLeft {
     padding-left: 2em;
+  }
+
+  #aboutTitle{
+    font-size: 2em;
   }
 
 

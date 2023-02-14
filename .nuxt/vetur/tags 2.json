@@ -11,11 +11,8 @@
   "HeaderResume": {
     "description": "Auto imported from components/header-resume.vue"
   },
-  "NavigationHome": {
-    "description": "Auto imported from components/navigation-home.vue"
-  },
-  "NavigationResume": {
-    "description": "Auto imported from components/navigation-resume.vue"
+  "NavigationHeader": {
+    "description": "Auto imported from components/navigation-header.vue"
   },
   "Powerfooter": {
     "description": "Auto imported from components/powerfooter.vue"

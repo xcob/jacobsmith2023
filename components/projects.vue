@@ -2,7 +2,7 @@
   <div>
     <b-container align-h="center" fluid="lg">
       <b-row class="projectRow" align-h="center">
-        <h3>Projects</h3>
+        <h3 id="projectTitle">Projects</h3>
             <b-col sm="12">
               <a href="https://theknobshoppe.com/" target="_blank"><b-img class="imageOverlay" src="/tks-homepage.png"  fluid alt=""></b-img></a>
               <p class="project">The Knob Shoppe</p>
@@ -33,8 +33,13 @@
 </template>
 
 <style>
-.workExp{
+#projectTitle{
+    font-size: 2em;
     text-align: center;
+    background-color: #30344C;
+    border-radius: 5px;
+    margin-bottom: 2em;
+    padding: .5em;
 }
 
 .project{
@@ -51,7 +56,7 @@
 .technologies{
   color: #36ABA8;
   font-size: .8em;
-  margin-bottom: 2em;
+  margin-bottom: 6em;
 }
 
 .projectRow{
@@ -61,6 +66,7 @@
 .imageOverlay{
   filter: saturate(25%);
   transition: filter 0.5s ease-in-out;
+  border-radius: 5px;
 }
 
 .imageOverlay:hover{
