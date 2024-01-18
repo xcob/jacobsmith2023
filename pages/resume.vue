@@ -15,7 +15,7 @@
     <b-container align-h="center" >
       <b-row align-h="center" align-self="center">
         <b-col align-h="center" class="btnContainer">
-          <b-button class="heroButton" style="color: #fff;" download href="/static/Jacob-Smith-2024.pdf">Download Resume</b-button>
+          <b-button class="heroButton" style="color: #fff;" download href="https://theknobshoppe.com/wp-content/uploads/2024/01/Jacob-Smith-2024.pdf">Download Resume</b-button>
         </b-col>
       </b-row>
     </b-container>
