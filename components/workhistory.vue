@@ -2,6 +2,20 @@
     <div>
     <b-container align-h="center">
         <h3 class="workExp">Work Experience</h3>
+
+      <b-row align-h="center" class="workRow">
+        <b-col md="auto">
+            <h4 class="workTitle">Front End Developer</h4>
+            <p class="workDate">March 2023 - Present | High Level Marketing</p>
+            <ul>
+                <li>Building websites from XD files in a proprietary PHP-based CMS</li>
+                <li>Creating custom PHP/Javascript functionality</li>
+                <li>Assisted in the development of a new CMS based on Handlebars.js</li>
+                <li>Performing client website training</li>
+                <li>Supporting websites post-launch with updates and bugfixes</li>  
+            </ul>
+            </b-col>
+      </b-row>
       <b-row align-h="center" class="workRow">
         <b-col md="auto">
             
@@ -21,11 +35,11 @@
             <h4 class="workTitle">Marketing Web Developer</h4>
             <p class="workDate">March 2020 - Present | ADTRAV Travel Management</p>
             <ul>
-                <li>Total website management including DNS, domains, backups, SSL's, plugins, updates</li>
-                <li>Custom code creation utilizing API's</li>
-                <li>Managment of Zoho/Dynamics CRM systems with lead/contact workflows</li>
-                <li>Manage digital marketing campaigns with CRM emails, forms, landing pages, and strategies</li>
-                <li>Social media Management from within Zoho Social</li>  
+                <li>Building custom webpages with HTML and Wordpress page builders (Elementor/Divi)</li>
+                <li>Creating mobile responsive layouts and styling with CSS/Bootstrap</li>
+                <li>Writing Javascript for custom functionality</li>
+                <li>Utilizing REST API's with PHP/Javascript for data retrieval and display</li>
+                <li>Managing digital marketing campaigns with CRM integrations with landing pages and forms</li>  
             </ul>
             </b-col>
       </b-row>
@@ -34,9 +48,10 @@
             <h4 class="workTitle">Website Support Specialist</h4>
             <p class="workDate">Nov. 2018 - March 2020 | High Level Marketing (Formerly Bell Media)</p>
             <ul>
-                <li>Launch and QA custom Wordpress sites</li>
-                <li>Create custom functionality for new and existing client websites</li>
-                <li>Maintain, update, and bugfix existing client websites</li>
+                <li>Updating/creating web pages with HTML and Wordpress page builders (Elementor/Divi/Bakery)</li>
+                <li>Creating mobile responsive layouts and page styling with CSS/Bootstrap/Foundation</li>
+                <li>Utilizing Javascript/PHP to create custom functionality or bugfix client websites</li>
+                <li>Assist the launch team with QA and deployment/transfer of new client websites. </li>
             </ul>
             </b-col>
       </b-row>
