@@ -15,7 +15,7 @@
           <p class="dotLoad">
             Javascript <span>.</span><span>.</span><span>.</span><span>.</span>
           </p>
-          <p class="dotLoad lastDot">
+          <p class="dotLoad">
             PHP/MySQL <span>.</span><span>.</span><span>.</span><span>.</span>
           </p>
           <p class="dotLoad lastDot">

@@ -33,7 +33,7 @@
       <b-row align-h="center" class="workRow">
         <b-col md="auto">
             <h4 class="workTitle">Marketing Web Developer</h4>
-            <p class="workDate">March 2020 - February 2023 | ADTRAV Travel Management</p>
+            <p class="workDate">March 2020 - Feb. 2023 | ADTRAV Travel Management</p>
             <ul>
                 <li>Building custom webpages with HTML and Wordpress page builders (Elementor/Divi)</li>
                 <li>Creating mobile responsive layouts and styling with CSS/Bootstrap</li>
