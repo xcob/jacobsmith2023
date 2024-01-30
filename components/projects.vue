@@ -16,12 +16,6 @@
               <p class="technologies">React, NextJS, Vercel, Notion API</p>
             </b-col>
             <b-col sm="12">
-              <a href="https://cosmanauts.com/" target="_blank"><b-img class="imageOverlay" src="/cosmanauts-screen.png" fluid  alt=""></b-img></a>
-              <p class="project">Cosmanauts</p>
-              <p class="projectType">Crypto NFT Project</p>
-              <p class="technologies">Vue, NuxtJS, Fleek, Cardano, Blockfrost, Nami Wallet</p>
-            </b-col>
-            <b-col sm="12">
               <a href="https://mute-sky-2058.on.fleek.co/" target="_blank"><b-img class="imageOverlay" src="/pokemon-app-ss-update.png" fluid  alt=""></b-img></a>
               <p class="project">Pokemon Randomizer</p>
               <p class="projectType">Pokemon Sprite and Card Generator</p>
