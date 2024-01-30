@@ -10,6 +10,12 @@
               <p class="technologies">Wordpress, Woocommerce, Stripe</p>
             </b-col>
             <b-col sm="12">
+              <a href="https://doublescoopblog.vercel.app/" target="_blank"><b-img class="imageOverlay" src="/doublescoop-screen.png" fluid  alt=""></b-img></a>
+              <p class="project">The Double Scoop Blog</p>
+              <p class="projectType">Blog based on the Double Scoop Newsletter</p>
+              <p class="technologies">React, NextJS, Vercel, Notion API</p>
+            </b-col>
+            <b-col sm="12">
               <a href="https://cosmanauts.com/" target="_blank"><b-img class="imageOverlay" src="/cosmanauts-screen.png" fluid  alt=""></b-img></a>
               <p class="project">Cosmanauts</p>
               <p class="projectType">Crypto NFT Project</p>
