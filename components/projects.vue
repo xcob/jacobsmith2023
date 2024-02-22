@@ -4,6 +4,12 @@
       <b-row class="projectRow" align-h="center">
         <h3 id="projectTitle">Projects</h3>
             <b-col sm="12">
+              <a href="https://www.cannapi.co/" target="_blank"><b-img class="imageOverlay" src="/cannapi-screen.png"  fluid alt=""></b-img></a>
+              <p class="project">Cannapi</p>
+              <p class="projectType">Website Support</p>
+              <p class="technologies">NuxtJS, Tailwind, Stripe, Vercel</p>
+            </b-col>
+            <b-col sm="12">
               <a href="https://theknobshoppe.com/" target="_blank"><b-img class="imageOverlay" src="/tks-homepage.png"  fluid alt=""></b-img></a>
               <p class="project">The Knob Shoppe</p>
               <p class="projectType">Guitar Pedals Shop</p>
@@ -21,12 +27,12 @@
               <p class="projectType">Pokemon Sprite and Card Generator</p>
               <p class="technologies">React, Pokemon API, Bootstrap</p>
             </b-col>
-             <b-col sm="12">
+             <!-- <b-col sm="12">
               <a href="https://rapid-poetry-0657.on.fleek.co/" target="_blank"><b-img class="imageOverlay" src="/chips-sreenshot.png"  fluid  alt=""></b-img></a>
               <p class="project">Chips</p>
               <p class="projectType">Crypto NFT Project</p>
               <p class="technologies">Vue, NuxtJS, Fleek, Cardano, Blockfrost, Nami Wallet</p>
-            </b-col>
+            </b-col> -->
       </b-row>
     </b-container>
   </div>
