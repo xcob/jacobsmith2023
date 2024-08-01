@@ -21,11 +21,6 @@
       "content": "jacobsmith2023"
     },
     {
-      "hid": "description",
-      "name": "description",
-      "content": "## Build Setup"
-    },
-    {
       "hid": "og:type",
       "name": "og:type",
       "property": "og:type",
@@ -42,12 +37,6 @@
       "name": "og:site_name",
       "property": "og:site_name",
       "content": "jacobsmith2023"
-    },
-    {
-      "hid": "og:description",
-      "name": "og:description",
-      "property": "og:description",
-      "content": "## Build Setup"
     }
   ],
   "link": [
@@ -64,7 +53,7 @@
     },
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.2556a798.json",
+      "href": "/_nuxt/manifest.f2f8a25e.json",
       "hid": "manifest"
     }
   ],
